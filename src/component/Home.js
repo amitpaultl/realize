@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css'
 import Corporate from './Page/Corporate/Corporate';
+import Footer from './Page/Footer/Footer';
 import Header from './Page/Header/Header';
 import Hero from './Page/Hero/Hero';
 import Offer from './Page/Offer/Offer';
@@ -21,6 +22,7 @@ const Home = () => {
             <Solutions></Solutions>
             <Skills></Skills>
             <Price></Price>
+            <Footer></Footer>
         </div>
     );
 };
