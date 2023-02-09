@@ -1,0 +1,58 @@
+.Corporate-area{
+    padding:  93px 0 120px 0;
+}
+.Corporate-text h2 {font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 22px;line-height: 33px;color: #554D89;padding: 30px 0 19px 0;}
+
+.Corporate-text {
+    padding: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px #E1E4ED;
+    border-radius: 10px;
+}
+
+.Corporate-text p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #716C80;
+    line-height: 28px;
+/* or 156% */
+}
+
+.Corporate-text-bg-ate {
+    background: linear-gradient(26.57deg, #6852ED 16.67%, #BA43FC 100%);
+    box-shadow: 0px 0px 20px rgba(104, 82, 237, 0.8);
+    border-radius: 10px;
+    padding: 44px;
+    color: #fff;
+}
+
+.Corporate-text-bg-ate h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    margin-bottom: 20px;
+}
+
+.Corporate-text-bg-ate p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 30px;
+}
+
+.Corporate-text-bg-ate button {
+    border: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    background: transparent;
+    color: #fff;
+}

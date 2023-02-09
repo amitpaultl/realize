@@ -1,0 +1,94 @@
+.skills-area{
+    margin-top: 140px;
+}
+.progess {
+    margin-bottom: 30px;
+}
+
+.progess p {
+    margin-bottom: 9px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #5B5766;
+}
+
+.progess .d-flex {
+    justify-content: space-between;
+}
+
+.progess span {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #5B5766;
+    line-height: 27px;
+}
+
+.progess .progress {
+    height: 8px;
+}
+
+.progess .progress-bar {
+    background: #6852ED;
+}
+
+.progress-bar {background: #6852ED;}
+
+.progress {
+    height: 8px;
+}
+
+.skills-text h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 44px;
+    color: #554D89;
+    margin-bottom: 32px;
+}
+
+.skills-text p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #716C80;
+    margin-bottom: 64px;
+}
+
+/* build area */
+
+.build{
+    background-image: url('../../Image/Bg.png');
+    background-size: cover;
+    background-position: left ;
+    padding: 70px 0 64px 0;
+    margin: 140px 0;
+}
+
+.build h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #554D89;
+}
+
+.build .d-flex {
+    justify-content: space-between;
+}
+
+.build button {
+    background: transparent;
+    border: 1px solid #6852ED;
+    color: #6852ED;
+    border-radius: 50px;
+    padding: 10px 22px;
+}

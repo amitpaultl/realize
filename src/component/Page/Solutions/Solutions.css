@@ -1,0 +1,40 @@
+.solutions-area{
+    margin-top: 80px;
+}
+
+.solutions-text h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    color: #554D89;
+    line-height: 46px;
+/* or 135% */
+    margin-bottom: 30px;
+}
+
+.solutions-text p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #716C80;
+    margin-bottom: 19px;
+}
+
+.solutions-area .Corporate-text {
+    margin-bottom: 20px;
+}
+
+.solutions-area .col-md-6.hello {
+    margin-top: 30px;
+}
+
+.solutions-area .col-md-6.bg {
+    margin-top: -50px;
+}
+
+.solutions-area .row {
+    align-items: center;
+}
