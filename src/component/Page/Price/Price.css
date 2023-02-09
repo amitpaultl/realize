@@ -3,6 +3,8 @@
     box-shadow: 0px 0px 20px #E1E4ED;
     border-radius: 10px;
     padding: 60px;
+    margin-bottom: 15px;
+
 }
 
 .base {
@@ -120,3 +122,4 @@
 .common-area {
     padding: 140px 0 120px 0;
 }
+

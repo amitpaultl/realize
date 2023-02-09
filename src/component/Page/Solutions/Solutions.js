@@ -28,7 +28,7 @@ const Solutions = () => {
                                         </div>
                                     </div>
                                     <div className=" col-md-6 bg">
-                                        <div className="Corporate-text-bg-ate">
+                                        <div className="Corporate-text-bg-ate ">
 
                                             <h2>Market analysis</h2>
                                             <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi …</p>

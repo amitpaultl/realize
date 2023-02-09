@@ -104,3 +104,19 @@ p.copy-right {
     text-align: center;
     padding-bottom: 88px;
 }
+
+@media (min-width: 68px) and (max-width: 1400.98px){
+    .Contacts {
+        color: #000;
+    }
+}
+
+@media (min-width: 68px) and (max-width: 767.98px){
+    .hero-img {
+        display: none;
+    }
+
+    .Ultimate-img {
+        display: none;
+    }
+}

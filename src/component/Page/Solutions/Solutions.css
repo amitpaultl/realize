@@ -38,3 +38,21 @@
 .solutions-area .row {
     align-items: center;
 }
+
+@media (min-width: 68px) and (max-width: 1199.98px) { 
+    .solutions-area .col-md-6.bg {
+        margin-top: 0;
+    }
+
+    .solutions-area .Corporate-text{
+        margin-bottom: 20px;
+    }
+
+    .Corporate-text{
+        margin-bottom: 20px;
+    }
+    
+    .Corporate-text-bg-ate{
+        margin-bottom: 20px;
+    }
+ }
