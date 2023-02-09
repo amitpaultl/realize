@@ -4,7 +4,7 @@ import play from '../../Image/play-button.png'
 const Works = () => {
     return (
         <div>
-            <div className="Works-area">
+            <div className="Works-area"  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">

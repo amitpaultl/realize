@@ -5,7 +5,7 @@ const Skills = () => {
     const now = 60;
     return (
         <div>
-            <div className="skills-area">
+            <div className="skills-area"  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6">

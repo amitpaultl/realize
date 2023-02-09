@@ -7,7 +7,7 @@ import img3 from '../../Image/hand-holding-usd.png'
 const Solutions = () => {
     return (
         <div>
-            <div className="solutions-area">
+            <div className="solutions-area"  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-8">

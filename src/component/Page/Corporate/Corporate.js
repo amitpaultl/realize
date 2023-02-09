@@ -7,7 +7,7 @@ import { BsArrowRight, IconName } from "react-icons/bs";
 const Corporate = () => {
     return (
         <div>
-            <div className="Corporate-area">
+            <div className="Corporate-area"  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-6">

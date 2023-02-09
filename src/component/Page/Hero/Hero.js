@@ -5,7 +5,7 @@ import hero from '../../Image/Image.png'
 const Hero = () => {
     return (
         <div>
-            <div className="hero-area">
+            <div className="hero-area"  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-5">

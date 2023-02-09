@@ -10,7 +10,7 @@ import { BsArrowRight, IconName } from "react-icons/bs";
 const Price = () => {
     return (
         <div>
-            <div className="price-area">
+            <div className="price-area"  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 col-lg-4">

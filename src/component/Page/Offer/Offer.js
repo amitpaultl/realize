@@ -5,7 +5,7 @@ import image from '../../Image/Img.png'
 const Offer = () => {
     return (
         <div>
-            <div className='Ultimate-area'>
+            <div className='Ultimate-area'  data-aos="fade-up">
                 <div className="container">
                     <div className="row">
 
